@@ -14,4 +14,3 @@
 <a href="mailto:alexandre.santos.gualberto@gmail.com">
   <img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
-
