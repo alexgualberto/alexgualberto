@@ -1,7 +1,7 @@
 
 ## Sobre mim
 
-- 🤔 Aspirante a Cientista de dados e interessado em Machine Learnig.
+- 🤔 Aspirante a Cientista de dados e apaixonado em Machine Learnig.
 - 🎓 Estudando Engenharia de Computação na UFSCar.
 - 🧠 Desenvolvendo pesquisa na área de Sistemas de Recomendação.
 - 💼 Buscando oportunidades de estágio em ciência de dados.
