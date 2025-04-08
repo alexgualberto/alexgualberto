@@ -1,12 +1,3 @@
-
-## Sobre mim
-
-- 🤔 Aspirante a Cientista de dados e apaixonado em Machine Learnig.
-- 🎓 Estudando Engenharia de Computação na UFSCar.
-- 🧠 Desenvolvendo pesquisa na área de Sistemas de Recomendação.
-- 💼 Buscando oportunidades de estágio em ciência de dados.
-
-
 ## Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-gualberto)
